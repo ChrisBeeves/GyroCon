@@ -1,5 +1,9 @@
 # GyroCon
-MPU-6050 Arduino game controller
+MPU-6050 Arduino Gyro game controller
+
+Makes a joystick and maps X, Y & Z axis
+
+- Input 4 is gyro recalibration
 
 You will need:
 - Arduino Leonardo or Pro Micro
